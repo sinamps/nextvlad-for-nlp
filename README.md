@@ -3,3 +3,6 @@ This repository contains the code for our paper titled "An Investigation into th
 
 For reproducibility and more deterministic execution, run with:
 <br>CUBLAS_WORKSPACE_CONFIG=:16:8 python tbinv_earlystop.py
+
+
+upload the requirements list (pip freeze file)
