@@ -5,9 +5,7 @@ For reproducibility and more deterministic execution, run with:
 <br>CUBLAS_WORKSPACE_CONFIG=:16:8 python tbinv_earlystop.py
 
 The env_reqs.txt is the list of our Python environment packages. You can use the following linux command to install the required dependencies:
-
 ```pip install -r env_reqs.txt```
-
 We recommend creating a new virtual Python environment and working with that.
 
 
